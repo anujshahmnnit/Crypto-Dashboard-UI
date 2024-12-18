@@ -1,26 +1,26 @@
+# Crypto Dashboard UI
 
-# Project Title
+The **Crypto Dashboard UI** is a user-friendly interface designed to display real-time cryptocurrency data, including prices, market capitalization, and percentage changes. It fetches data from the CoinGecko API and presents it in an organized and visually appealing manner.
 
-A brief description of what this project does and who it's for
+## Features
 
-The Crypto Dashboard UI is a user-friendly interface designed to display real-time cryptocurrency data, including prices, market capitalization, and percentage changes. It fetches data from the CoinGecko API and presents it in an organized and visually appealing manner.
-Features
+- **Real-Time Data Fetching**: Retrieves the latest cryptocurrency data from the CoinGecko API.
+- **Dynamic Card Generation**: Dynamically creates cards for each cryptocurrency, displaying its name, price, symbol, and 24-hour price change.
+- **Responsive Design**: Ensures the dashboard is accessible and user-friendly across various devices.
 
-    Real-Time Data Fetching: Retrieves the latest cryptocurrency data from the CoinGecko API.
-    Dynamic Card Generation: Dynamically creates cards for each cryptocurrency, displaying its name, price, symbol, and 24-hour price change.
-    Responsive Design: Ensures the dashboard is accessible and user-friendly across various devices.
+## Files
 
-Files
+- `index.html`: The main HTML file that structures the dashboard layout.
+- `index.js`: The JavaScript file responsible for fetching cryptocurrency data from the API and dynamically updating the dashboard.
+- `styles.css`: The CSS file that styles the dashboard's appearance.
 
-    index.html: The main HTML file that structures the dashboard layout.
-    index.js: The JavaScript file responsible for fetching cryptocurrency data from the API and dynamically updating the dashboard.
-    styles.css: The CSS file that styles the dashboard's appearance.
+## Usage
 
-Usage
+1. Clone the repository to your local machine.
+2. Open the `index.html` file in a web browser to view the dashboard.
 
-    Clone the repository to your local machine.
-    Open the index.html file in a web browser to view the dashboard.
-
-License
+## License
 
 This project is licensed under the MIT License.
+
+For more information, visit the [GitHub repository](https://github.com/anujshahmnnit/Crypto-Dashboard-UI).
